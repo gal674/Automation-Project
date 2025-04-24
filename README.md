@@ -67,6 +67,7 @@ PyCharm
 ChromeDriver
 
 🎓 About the Project
+
 This project represents my personal QA journey and growth during my studies. It's a reflection of my hands-on knowledge in:
 
 Automatic testing
