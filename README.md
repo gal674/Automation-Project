@@ -13,7 +13,7 @@ The test suite includes:
 🔄 Independent test cases, each focused on validating specific features
 
 📁 Project Structure
-Automation-Project-Gal-Eppstein/
+
 ├── web/                # Local website to test (open with Live Server)
 ├── outside_webs/       # Test scripts for online websites
 ├── test_download.py    # Tests the file download functionality
