@@ -14,6 +14,7 @@ The test suite includes:
 
 📁 Project Structure
 
+```
 web/                # Local website to test (open with Live Server)
 outside_webs/       # Test scripts for online websites
 test_download.py    # Tests the file download functionality
@@ -23,6 +24,8 @@ test_next_page.py   # Tests navigation and content on the next page
 test_dictionary.py  # Automates an online dictionary site
 test_jerusalem.py   # Tests a site related to Jerusalem info
 test_wiki.py        # Automates functionality on Wikipedia
+```
+
 
 ⚙️ How to Run the Project
 Unzip the project folder.
