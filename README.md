@@ -1,18 +1,18 @@
-🧪 Automation Project – Gal Eppstein
+Automation Project – Gal Eppstein
 This repository contains the complete automation testing project I developed as part of my QA certification at Bar-Ilan University.
 
 The project showcases my ability to design, implement, and run a full suite of automated UI tests using Python, Selenium, and industry-standard tools and practices.
 
-🚀 Project Overview
+Project Overview
 The test suite includes:
 
-✅ Functional testing of a custom-built local website (web/)
+Functional testing of a custom-built local website (web/)
 
-🌐 Automation of real-world websites (dictionary, Wikipedia, and more)
+Automation of real-world websites (dictionary, Wikipedia, and more)
 
-🔄 Independent test cases, each focused on validating specific features
+Independent test cases, each focused on validating specific features
 
-📁 Project Structure
+Project Structure
 
 ```
 web/                # Local website to test (open with Live Server)
@@ -27,7 +27,7 @@ test_wiki.py        # Automates functionality on Wikipedia
 ```
 
 
-⚙️ How to Run the Project
+How to Run the Project
 Unzip the project folder.
 
 Open the web/ folder with VS Code, then start the Live Server extension.
@@ -38,7 +38,7 @@ Open the main project folder (excluding web/) using PyCharm or your preferred Py
 
 Run each test file individually. The tests are fully independent and self-explanatory via in-line comments (#) and function names.
 
-🧪 Test Details
+Test Details
 Local Site Tests (Live Server)
 test_download.py: Validates file download functionality.
 
@@ -55,7 +55,7 @@ test_jerusalem.py: Focuses on a tourism/informational website.
 
 test_wiki.py: Runs tests against Wikipedia's search and article structure.
 
-👨‍💻 Technologies Used
+Technologies Used
 Python 
 
 Selenium WebDriver
@@ -66,7 +66,7 @@ PyCharm
 
 ChromeDriver
 
-🎓 About the Project
+About the Project
 
 This project represents my personal QA journey and growth during my studies. It's a reflection of my hands-on knowledge in:
 
@@ -82,7 +82,7 @@ Debugging, validation, and issue documentation
 
 I'm proud of this work, and I hope it gives a clear view of my testing approach, attention to detail, and technical abilities.
 
-📬 Contact
+Contact
 
 📧 galepstein1@gmail.com
 
