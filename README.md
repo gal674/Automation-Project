@@ -1,4 +1,5 @@
 Automation Project – Gal Eppstein
+
 This repository contains the complete automation testing project I developed as part of my QA certification at Bar-Ilan University.
 
 The project showcases my ability to design, implement, and run a full suite of automated UI tests using Python, Selenium, and industry-standard tools and practices.
